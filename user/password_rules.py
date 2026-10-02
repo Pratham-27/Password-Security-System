@@ -1,0 +1,11 @@
+def show_rules():
+    print("===================================")
+    print("      PASSWORD STRENGTH CHECKER")
+    print("===================================")
+    print("Password Rules:")
+    print("1. Password must be at least 8 characters long.")
+    print("2. Password must contain at least 1 uppercase letter.")
+    print("3. Password must contain at least 1 lowercase letter.")
+    print("4. Password must contain at least 1 number.")
+    print("5. Password must contain at least 1 special character.")
+    print("===================================")
